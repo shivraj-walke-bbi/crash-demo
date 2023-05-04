@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161234450819",
+    "project_id": "crash-demo-da669",
+    "storage_bucket": "crash-demo-da669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161234450819:android:8d5070a28df6d83bae9eb6",
+        "android_client_info": {
+          "package_name": "com.example.crash_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161234450819-fr5vi9v9omqcghfr287ql882ea5a93cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31WoHyJvZw_XNqqRMXNJ1XBbNSZtoYgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161234450819-fr5vi9v9omqcghfr287ql882ea5a93cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
